@@ -1,0 +1,8 @@
+.worktrees/
+
+# Local investigation inputs; never publish them with the tool source.
+docs/additional-guild.md
+docs/unstall-investigation.md
+
+# Internal design, investigation, and execution records; never publish them.
+docs/superpowers/
